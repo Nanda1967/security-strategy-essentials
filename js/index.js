@@ -12,7 +12,7 @@ const img = [
   'https://octodex.github.com/images/linktocat.jpg',
   'https://octodex.github.com/images/kimonotocat.png'	
 ];
-
+//Added a comment ..looks like old Basic programming
 let total = 0;
 let move = 0;
 let count = 1;
